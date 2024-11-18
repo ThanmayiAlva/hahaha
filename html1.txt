@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello kitty</title> 
+</head>
+<body style="background_color="pink">
+<h1 style="text-align:center">HELLO KITTY</h1>
+<br>
+<img src="C:\Users\thanm\Desktop\images.jpg" style="display:block;margin:auto;height:20%;width:30%" border="1" alt="kitty">
+<h2 style="margin:5px">Background</h2>
+<p style="margin:20px">Hello Kitty (Japanese: ハロー・キティ, Hepburn: Harō Kiti),[6] also known by her real name Kitty White (キティ・ホワイト, Kiti Howaito),[5] is a fictional character created by Yuko Shimizu, currently designed by Yuko Yamaguchi, and owned by the Japanese company Sanrio.[7][8][9] Sanrio depicts Hello Kitty as an anthropomorphized white cat with a red bow and no visible mouth.[10][11] According to her backstory, she lives in a London suburb with her family, and is close to her twin sister Mimmy, who is depicted with a yellow bow.</p>
+</br>
+<footer>
+<p>source:Wikipedia</p>
+<a href="https://en.wikipedia.org/wiki/Hello_Kitty</a>
+</footer>
+</body>
+</html>
